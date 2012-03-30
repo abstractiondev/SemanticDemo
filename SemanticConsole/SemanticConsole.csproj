@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RealWorldMeaningSemantics.cs" />
+    <Compile Include="FunctionalMeaningSemantics.cs" />
+    <Compile Include="DatatypeSemantics.cs" />
+    <Compile Include="ImplicitMethodInternalDataTypeSemantics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SemanticSignatureExample.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NoSemantics.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
