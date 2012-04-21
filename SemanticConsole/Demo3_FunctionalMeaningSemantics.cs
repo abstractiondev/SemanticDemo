@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SemanticConsole
 {
-    class FunctionalMeaningSemantics
+    class Demo3_FunctionalMeaningSemantics
     {
         DateTime AddYearToParameter(DateTime dateTime)
         {

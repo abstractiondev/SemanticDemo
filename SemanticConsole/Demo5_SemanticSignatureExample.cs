@@ -2,7 +2,7 @@
 
 namespace SemanticConsole
 {
-    class SemanticSignatureExample
+    class Demo5_SemanticSignatureExample
     {
         /// <summary>
         /// Signature is composed of semantically strictly defined combination of following:

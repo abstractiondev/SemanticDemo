@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SemanticConsole
 {
-    class DatatypeSemantics
+    class Demo2_DatatypeSemantics
     {
         DateTime DoSomething(DateTime parameter)
         {

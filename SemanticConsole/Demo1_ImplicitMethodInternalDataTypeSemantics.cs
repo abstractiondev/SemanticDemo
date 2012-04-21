@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SemanticConsole
 {
-    class ImplicitMethodInternalDataTypeSemantics
+    class Demo1_ImplicitMethodInternalDataTypeSemantics
     {
         object DoSomething(object parameter)
         {

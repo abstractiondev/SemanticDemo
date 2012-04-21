@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SemanticConsole
 {
-    class RealWorldMeaningSemantics
+    class Demo4_RealWorldMeaningSemantics
     {
         DateTime GetNextBirthDayFromCurrent(DateTime currentBirthDay)
         {
